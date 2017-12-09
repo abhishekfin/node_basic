@@ -1,0 +1,5 @@
+1 node filename --to run the project
+2 cntr + c to terminate program 
+3 kill -9 to kill
+4 console.log(__dirname);  -- give directiory name
+4 console.log(__filename);  -- give file name
