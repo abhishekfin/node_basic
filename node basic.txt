@@ -3,3 +3,9 @@
 3 kill -9 to kill
 4 console.log(__dirname);  -- give directiory name
 4 console.log(__filename);  -- give file name
+5 npm init
+6 npm install -g nodemon
+7 nodemon filename.js
+8 npm install express --save
+9 npm install ejs -save
+10 bodyparser
